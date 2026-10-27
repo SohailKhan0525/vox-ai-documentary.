@@ -13,3 +13,8 @@ __pycache__/
 previews/draft_frame_*.png
 previews/final_frames/
 output/*.zip
+
+# Approved downloadable deliverables and render-ready audio.
+!output/ai_future_documentary_35s.mp4
+!previews/prototype_5s.mp4
+!public/audio/master.wav

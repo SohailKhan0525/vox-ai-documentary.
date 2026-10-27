@@ -12,7 +12,7 @@ An original, 35-second vertical editorial mini-documentary about the future of A
 - `docs/quality_report.md` and `docs/qc_results.json` — verification and limits.
 - `docs/script.md`, `docs/storyboard.md`, `docs/VOX_STYLE_RESEARCH.md`, `docs/creative_direction.md`, `docs/assets_and_licenses.md`, `docs/toolchain.md`.
 
-Large binary outputs, virtual environment, node_modules, and voice model weights are intentionally ignored by Git. They exist in this prepared workspace; publishing the cloud environment snapshots prepared files, while Git alone does not contain them. Download the MP4 using the workspace file link/browser. No public hosting or upload is performed.
+The final MP4, five-second prototype, contact sheets, editable source, and mastered audio are committed to Git for direct download and rendering. Open `output/ai_future_documentary_35s.mp4` on GitHub and select Download raw file. The larger project ZIP, intermediate renders, raw stems, virtual environment, node_modules, and neural weights remain workspace-only; they can be regenerated using the supplied scripts. The committed master audio lets you render without downloading the neural model first.
 
 ## Reproduce
 
