@@ -1,0 +1,7 @@
+# Environment audit
+
+Inspected before installation on 2026-10-27. Debian GNU/Linux 13, x86_64. Five visible CPUs, cgroup quota four CPUs. 32 GiB cgroup memory limit, approximately 30 GiB initial free storage. No NVIDIA device found; no GPU assumed. Node 24.19.0, npm 11.9.0, Python 3.12.14, system FFmpeg 7.1.5 and Chromium 154.0.8037.57. DejaVu font family installed. No pre-existing application or files in selected repository; symbolic unborn work branch. No API credentials used or requested. Project creation explicitly authorized by master production request.
+
+Network uses inherited proxy and CA trust. Restricted package-manager preset permits npm, PyPI, GitHub and raw GitHub content. Runtime policy reported enforced. Direct reference/documentation attempts returned proxy 403 for www.youtube.com, www.vox.com, www.ilo.org, www.remotion.dev, huggingface.co, skia.org, ffmpeg.org and librosa.org. Domain additions saved in environment draft; saving does not apply/publish. Production uses accessible official source documentation, GitHub-hosted voice artifacts and original vectors/audio. Network verification and package integrity checks remain enabled.
+
+npm's default cache location was unwritable; using `--cache /tmp/documentary-npm` fixed installation. Python uses a local virtual environment. No system installation or GPU setup necessary. Render concurrency two to leave CPU for Chromium and audio encoding. Fonts served locally, no runtime web/font requests.

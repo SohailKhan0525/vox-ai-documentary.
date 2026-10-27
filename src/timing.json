@@ -1,0 +1,389 @@
+[
+  {
+    "scene": 0,
+    "startFrame": 0,
+    "endFrameExclusive": 135,
+    "text": "AI can draft an answer in seconds. But who checks it?",
+    "speechStart": 0.2,
+    "speechEnd": 4.196458333333333,
+    "words": [
+      {
+        "word": "AI",
+        "start": 0.2,
+        "end": 0.5633143939393939
+      },
+      {
+        "word": "can",
+        "start": 0.5633143939393939,
+        "end": 0.9266287878787878
+      },
+      {
+        "word": "draft",
+        "start": 0.9266287878787878,
+        "end": 1.2899431818181817
+      },
+      {
+        "word": "an",
+        "start": 1.2899431818181817,
+        "end": 1.6532575757575756
+      },
+      {
+        "word": "answer",
+        "start": 1.6532575757575756,
+        "end": 2.0165719696969697
+      },
+      {
+        "word": "in",
+        "start": 2.0165719696969697,
+        "end": 2.3798863636363636
+      },
+      {
+        "word": "seconds.",
+        "start": 2.3798863636363636,
+        "end": 2.7432007575757575
+      },
+      {
+        "word": "But",
+        "start": 2.7432007575757575,
+        "end": 3.1065151515151515
+      },
+      {
+        "word": "who",
+        "start": 3.1065151515151515,
+        "end": 3.469829545454546
+      },
+      {
+        "word": "checks",
+        "start": 3.469829545454546,
+        "end": 3.8331439393939393
+      },
+      {
+        "word": "it?",
+        "start": 3.8331439393939393,
+        "end": 4.196458333333332
+      }
+    ],
+    "wordTimingMethod": "uniform estimates within measured utterance; not forced alignment"
+  },
+  {
+    "scene": 1,
+    "startFrame": 135,
+    "endFrameExclusive": 270,
+    "text": "A job isn't one task. It's a bundle.",
+    "speechStart": 4.7,
+    "speechEnd": 7.857333333333333,
+    "words": [
+      {
+        "word": "A",
+        "start": 4.7,
+        "end": 5.094666666666667
+      },
+      {
+        "word": "job",
+        "start": 5.094666666666667,
+        "end": 5.489333333333334
+      },
+      {
+        "word": "isn't",
+        "start": 5.489333333333334,
+        "end": 5.884
+      },
+      {
+        "word": "one",
+        "start": 5.884,
+        "end": 6.278666666666666
+      },
+      {
+        "word": "task.",
+        "start": 6.278666666666666,
+        "end": 6.673333333333334
+      },
+      {
+        "word": "It's",
+        "start": 6.673333333333334,
+        "end": 7.068
+      },
+      {
+        "word": "a",
+        "start": 7.068,
+        "end": 7.462666666666666
+      },
+      {
+        "word": "bundle.",
+        "start": 7.462666666666666,
+        "end": 7.857333333333333
+      }
+    ],
+    "wordTimingMethod": "uniform estimates within measured utterance; not forced alignment"
+  },
+  {
+    "scene": 2,
+    "startFrame": 270,
+    "endFrameExclusive": 420,
+    "text": "Reading. Writing. Deciding. AI can help with parts of that bundle.",
+    "speechStart": 9.2,
+    "speechEnd": 13.704541666666666,
+    "words": [
+      {
+        "word": "Reading.",
+        "start": 9.2,
+        "end": 9.609503787878786
+      },
+      {
+        "word": "Writing.",
+        "start": 9.609503787878786,
+        "end": 10.019007575757575
+      },
+      {
+        "word": "Deciding.",
+        "start": 10.019007575757575,
+        "end": 10.428511363636362
+      },
+      {
+        "word": "AI",
+        "start": 10.428511363636362,
+        "end": 10.838015151515151
+      },
+      {
+        "word": "can",
+        "start": 10.838015151515151,
+        "end": 11.247518939393938
+      },
+      {
+        "word": "help",
+        "start": 11.247518939393938,
+        "end": 11.657022727272727
+      },
+      {
+        "word": "with",
+        "start": 11.657022727272727,
+        "end": 12.066526515151514
+      },
+      {
+        "word": "parts",
+        "start": 12.066526515151514,
+        "end": 12.476030303030303
+      },
+      {
+        "word": "of",
+        "start": 12.476030303030303,
+        "end": 12.88553409090909
+      },
+      {
+        "word": "that",
+        "start": 12.88553409090909,
+        "end": 13.295037878787877
+      },
+      {
+        "word": "bundle.",
+        "start": 13.295037878787877,
+        "end": 13.704541666666666
+      }
+    ],
+    "wordTimingMethod": "uniform estimates within measured utterance; not forced alignment"
+  },
+  {
+    "scene": 3,
+    "startFrame": 420,
+    "endFrameExclusive": 585,
+    "text": "But a fluent answer can still be wrong.",
+    "speechStart": 14.2,
+    "speechEnd": 16.866666666666667,
+    "words": [
+      {
+        "word": "But",
+        "start": 14.2,
+        "end": 14.533333333333333
+      },
+      {
+        "word": "a",
+        "start": 14.533333333333333,
+        "end": 14.866666666666667
+      },
+      {
+        "word": "fluent",
+        "start": 14.866666666666667,
+        "end": 15.2
+      },
+      {
+        "word": "answer",
+        "start": 15.2,
+        "end": 15.533333333333333
+      },
+      {
+        "word": "can",
+        "start": 15.533333333333333,
+        "end": 15.866666666666667
+      },
+      {
+        "word": "still",
+        "start": 15.866666666666667,
+        "end": 16.2
+      },
+      {
+        "word": "be",
+        "start": 16.2,
+        "end": 16.533333333333335
+      },
+      {
+        "word": "wrong.",
+        "start": 16.533333333333335,
+        "end": 16.866666666666667
+      }
+    ],
+    "wordTimingMethod": "uniform estimates within measured utterance; not forced alignment"
+  },
+  {
+    "scene": 4,
+    "startFrame": 585,
+    "endFrameExclusive": 750,
+    "text": "And when mistakes move faster, checking matters more.",
+    "speechStart": 19.7,
+    "speechEnd": 23.305333333333333,
+    "words": [
+      {
+        "word": "And",
+        "start": 19.7,
+        "end": 20.150666666666666
+      },
+      {
+        "word": "when",
+        "start": 20.150666666666666,
+        "end": 20.601333333333333
+      },
+      {
+        "word": "mistakes",
+        "start": 20.601333333333333,
+        "end": 21.052
+      },
+      {
+        "word": "move",
+        "start": 21.052,
+        "end": 21.502666666666666
+      },
+      {
+        "word": "faster,",
+        "start": 21.502666666666666,
+        "end": 21.953333333333333
+      },
+      {
+        "word": "checking",
+        "start": 21.953333333333333,
+        "end": 22.404
+      },
+      {
+        "word": "matters",
+        "start": 22.404,
+        "end": 22.854666666666667
+      },
+      {
+        "word": "more.",
+        "start": 22.854666666666667,
+        "end": 23.305333333333333
+      }
+    ],
+    "wordTimingMethod": "uniform estimates within measured utterance; not forced alignment"
+  },
+  {
+    "scene": 5,
+    "startFrame": 750,
+    "endFrameExclusive": 900,
+    "text": "So the question isn't just what we can automate.",
+    "speechStart": 25.2,
+    "speechEnd": 28.421333333333333,
+    "words": [
+      {
+        "word": "So",
+        "start": 25.2,
+        "end": 25.557925925925925
+      },
+      {
+        "word": "the",
+        "start": 25.557925925925925,
+        "end": 25.91585185185185
+      },
+      {
+        "word": "question",
+        "start": 25.91585185185185,
+        "end": 26.273777777777777
+      },
+      {
+        "word": "isn't",
+        "start": 26.273777777777777,
+        "end": 26.631703703703703
+      },
+      {
+        "word": "just",
+        "start": 26.631703703703703,
+        "end": 26.98962962962963
+      },
+      {
+        "word": "what",
+        "start": 26.98962962962963,
+        "end": 27.347555555555555
+      },
+      {
+        "word": "we",
+        "start": 27.347555555555555,
+        "end": 27.70548148148148
+      },
+      {
+        "word": "can",
+        "start": 27.70548148148148,
+        "end": 28.063407407407407
+      },
+      {
+        "word": "automate.",
+        "start": 28.063407407407407,
+        "end": 28.421333333333333
+      }
+    ],
+    "wordTimingMethod": "uniform estimates within measured utterance; not forced alignment"
+  },
+  {
+    "scene": 6,
+    "startFrame": 900,
+    "endFrameExclusive": 1050,
+    "text": "It's what we choose to keep human.",
+    "speechStart": 30.2,
+    "speechEnd": 32.44,
+    "words": [
+      {
+        "word": "It's",
+        "start": 30.2,
+        "end": 30.52
+      },
+      {
+        "word": "what",
+        "start": 30.52,
+        "end": 30.84
+      },
+      {
+        "word": "we",
+        "start": 30.84,
+        "end": 31.16
+      },
+      {
+        "word": "choose",
+        "start": 31.16,
+        "end": 31.479999999999997
+      },
+      {
+        "word": "to",
+        "start": 31.479999999999997,
+        "end": 31.799999999999997
+      },
+      {
+        "word": "keep",
+        "start": 31.799999999999997,
+        "end": 32.12
+      },
+      {
+        "word": "human.",
+        "start": 32.12,
+        "end": 32.44
+      }
+    ],
+    "wordTimingMethod": "uniform estimates within measured utterance; not forced alignment"
+  }
+]

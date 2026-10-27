@@ -1,0 +1,15 @@
+{
+  "name": "ai-future-editorial-documentary",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.tsx --browser-executable=/usr/bin/chromium",
+    "prototype": "node scripts/render.mjs prototype",
+    "draft": "node scripts/render.mjs draft",
+    "render": "node scripts/render.mjs final",
+    "audio": ".venv/bin/python scripts/audio.py",
+    "qc": ".venv/bin/python scripts/qc.py"
+  },
+  "dependencies": {"@remotion/cli": "4.0.539", "@remotion/renderer": "4.0.539", "@remotion/bundler": "4.0.539", "remotion": "4.0.539", "react": "19.2.4", "react-dom": "19.2.4"},
+  "devDependencies": {"typescript": "5.9.3", "@types/react": "19.2.14"}
+}

@@ -1,0 +1,15 @@
+node_modules/
+.venv/
+assets/*.onnx
+assets/*.bin
+output/*.mp4
+previews/*.mp4
+audio/*.wav
+public/audio/*.wav
+.remotion/
+*.log
+__pycache__/
+
+previews/draft_frame_*.png
+previews/final_frames/
+output/*.zip
